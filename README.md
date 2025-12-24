@@ -92,7 +92,7 @@ Built with ❤️ by **Rahul**
 - Project Link: https://dev-badge-phi.vercel.app
 
 ---
-<div>
+<div align="center">
 
 [![Project Link](https://dev-badge-phi.vercel.app/api/index?text=Project%20Link&color1=f038d7&color2=5a57ff)](https://dev-badge-phi.vercel.app/)
 
