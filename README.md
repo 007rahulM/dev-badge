@@ -54,14 +54,14 @@ You can directly use the API inside your Markdown files.
 
 ---
 
-#### 🟢 LeetCode Stats Card Example
+## 🟢 LeetCode Stats Card Example
 
 Replace `rahulm2_0_0_4` with your own LeetCode username.
 
 ```markdown
 [![LeetCode Stats](https://dev-badge-phi.vercel.app/api/leetcode?username=rahulm2_0_0_4&bg=0f172a&text=e2e8f0)](https://leetcode.com/rahulm2_0_0_4)
 
-#### 🟣 Custom Button Example
+### 🟣 Custom Button Example
 
 Replace the text, colors, and link as needed.
 ```markdown
