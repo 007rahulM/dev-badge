@@ -20,7 +20,7 @@ function App() {
   const [debouncedUrl, setDebouncedUrl] = useState('');
 
   // --- CONFIGURATION ---
-  const PREVIEW_HOST = "http://localhost:3000";
+  const PREVIEW_HOST = "https://dev-badge-phi.vercel.app";
   const LIVE_HOST = "https://dev-badge-phi.vercel.app";
 
   // --- EFFECT: Handle Debounce ---
