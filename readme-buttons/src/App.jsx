@@ -21,7 +21,7 @@ function App() {
 
   // --- CONFIGURATION ---
   const PREVIEW_HOST = "http://localhost:3000";
-  const LIVE_HOST = "https://readme-buttons.vercel.app";
+  const LIVE_HOST = "https://dev-badge-phi.vercel.app";
 
   // --- EFFECT: Handle Debounce ---
   useEffect(() => {
