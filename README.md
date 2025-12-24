@@ -94,6 +94,6 @@ Built with ❤️ by **Rahul**
 ---
 <div>
 
-[![Project Link](https://dev-badge-phi.vercel.app/api/index?text=Project%20Link&color1=E96443&color2=904E95)](https://dev-badge-phi.vercel.app/)
+[![Project Link](https://dev-badge-phi.vercel.app/api/index?text=Project%20Link&color1=f038d7&color2=5a57ff)](https://dev-badge-phi.vercel.app/)
 
 </div>
