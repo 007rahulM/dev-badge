@@ -92,6 +92,8 @@ Built with ❤️ by **Rahul**
 - Project Link: https://dev-badge-phi.vercel.app
 
 ---
-```markdown
+<div>
+
 [![Project Link](https://dev-badge-phi.vercel.app/api/index?text=Project%20Link&color1=E96443&color2=904E95)](https://dev-badge-phi.vercel.app/)
-```
+
+</div>
