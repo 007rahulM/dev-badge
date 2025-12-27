@@ -61,6 +61,10 @@ Replace `rahulm2_0_0_4` with your own LeetCode username.
 ```markdown
 [![LeetCode Stats](https://dev-badge-phi.vercel.app/api/leetcode?username=rahulm2_0_0_4&bg=0f172a&text=e2e8f0)](https://leetcode.com/rahulm2_0_0_4)
 ```
+<div align="center">
+ [![LeetCode Stats](https://dev-badge-phi.vercel.app/api/leetcode?username=rahulm2_0_0_4&bg=0f172a&text=e2e8f0)](https://leetcode.com/rahulm2_0_0_4)
+</div>
+
 
 ### 🟣 Custom Button Example
 
