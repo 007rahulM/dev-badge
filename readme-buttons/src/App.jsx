@@ -53,7 +53,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>Developer Dashboard</h1>
+      <h1>Dev Badge</h1>
 
       <div className="tab-container">
         <button className={`tab-btn ${activeTab === 'button' ? 'active' : ''}`} onClick={() => setActiveTab('button')}>
